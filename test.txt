@@ -5,3 +5,4 @@ second commit on feature 1 branch
 third commit on feature 1 branch
 
 new commit on master
+another commit on master
