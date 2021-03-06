@@ -6,3 +6,4 @@ third commit on feature 1 branch
 
 new commit on master
 another commit on master
+fourth commit on master 
