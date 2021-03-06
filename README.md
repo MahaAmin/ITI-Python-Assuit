@@ -3,6 +3,8 @@ A README file is a text file (commonly readme.txt) that contains information for
 about the software program, utility, or game. README files often contain instructions and 
 additional help, and details about patches or updates.
 
+If you have used GitHub you might have noticed the importance of a Readme file. For those who are unfamiliar, it is the a markdown or a text file whose contents are rendered automatically by GitHub. A Readme file at the root folder of your repo will contain the information that is shown when a user visits your repo
+
 About READMEs:
 You can add a README file to your repository to tell other people why your project is useful, 
 what they can do with your project, and how they can use it.
