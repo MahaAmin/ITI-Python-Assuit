@@ -43,7 +43,7 @@ GitHub will recognize and automatically surface your README to repository visito
         =========================================
     - Launch:
         How to run a project? Does a project has minimum hardware requirements?
-        =========================================
+        
     
 * Consider also using additional elements such as: 
 
