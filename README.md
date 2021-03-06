@@ -32,10 +32,14 @@ GitHub will recognize and automatically surface your README to repository visito
 
 * Make sure the file always includes the following elements:
 
-    Titles and internal titles
-    Introduction - the project's aim
-    Technologies
-    Launch
+    Titles and internal titles:
+        A title should explain clearly what we have here, and it's usually a project's name - a H1 heading prefaced with #. If a project's name doesn't disclose its content, still it's worth to suggest what it is.
+    Introduction - the project's aim:
+        Introduction is like a summary. It shouldn't be too long as we don't want to read an essay on a project. We should describe in an interesting manner what's the project aim, and what problems does a given application solve. Two or three sentences are enough in case of a small project.
+    Technologies:
+        Let's write down the languages we used, the libraries and its versions. 
+    Launch:
+        How to run a project? Does a project has minimum hardware requirements?
     
 * Consider also using additional elements such as: 
 
